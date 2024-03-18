@@ -68,3 +68,8 @@ footer p {
 	text-align: center;
 	padding: 1em 0;
 }
+
+/* additional styles */
+.shadow {
+	text-shadow: 2px 2px 2px #800000;
+}
